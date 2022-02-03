@@ -2,6 +2,7 @@
     grid-area: nav;
     background-color: aqua;
 }
-.item {
+.item a {
     color: white;
+    text-decoration: none;
 }
